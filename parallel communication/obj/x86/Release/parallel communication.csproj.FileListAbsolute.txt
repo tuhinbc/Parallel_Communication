@@ -1,0 +1,28 @@
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel_communication.Form1.resources
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel_communication.Properties.Resources.resources
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.csproj.GenerateResource.Cache
+G:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\parallel communication.exe
+G:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\parallel communication.pdb
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.exe
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.pdb
+G:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\Jaspreets Parallel Port Control.dll
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.csprojResolveAssemblyReference.cache
+I:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.exe
+I:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.pdb
+I:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\parallel communication.exe
+I:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\parallel communication.pdb
+I:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\Jaspreets Parallel Port Control.dll
+I:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.csprojResolveAssemblyReference.cache
+I:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel_communication.Form1.resources
+I:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel_communication.Properties.Resources.resources
+I:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.csproj.GenerateResource.Cache
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.exe
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel communication.pdb
+H:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\parallel communication.exe
+H:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\parallel communication.pdb
+H:\Laboratory\c# Lab\parallel communication\parallel communication\bin\Release\Jaspreets Parallel Port Control.dll
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel_communication.Form1.resources
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\parallel_communication.Properties.Resources.resources
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Release\GenerateResource.write.1.tlog

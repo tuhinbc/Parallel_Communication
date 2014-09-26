@@ -1,0 +1,3 @@
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Debug\parallel_communication.Form1.resources
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Debug\parallel_communication.Properties.Resources.resources
+G:\Laboratory\c# Lab\parallel communication\parallel communication\obj\x86\Debug\parallel communication.csproj.GenerateResource.Cache
